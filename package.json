@@ -1,0 +1,23 @@
+{
+  "name": "nodebb-plugin-autofill",
+  "version": "1.0.0",
+  "description": "nodebb autofill post",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsian/nodebb-plugin-autofill.git"
+  },
+  "keywords": [
+    "autofill",
+    "nodebb-plugin-autofill"
+  ],
+  "author": "hsian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsian/nodebb-plugin-autofill/issues"
+  },
+  "homepage": "https://github.com/hsian/nodebb-plugin-autofill#readme"
+}
