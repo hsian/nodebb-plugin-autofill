@@ -13,5 +13,7 @@ first, install <a href="https://github.com/bda-research/node-crawler">node-crawl
 grab pages based on 3 fields
 
 -url : website url
+
 -title : title class name / id / node name <Topis>
+
 -content : content class name / id / node name <Posts>
