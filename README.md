@@ -4,9 +4,10 @@ nodebb forum plugin, provide autofill posts;
 
 ##Install
 
-first, install <a href="https://github.com/bda-research/node-crawler">node-crawler</a> `npm install crawler`
-
-`npm install nodebb-plugin-autofill`  @1.0.1
+- install <a href="https://github.com/bda-research/node-crawler">node-crawler</a> `npm install crawler`
+- `npm install log`
+- `npm install moment`
+- `npm install nodebb-plugin-autofill`  @1.0.1
 
 ##How to use
 
