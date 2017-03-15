@@ -1,0 +1,6 @@
+{
+    "BASE_DIR" : "/node_modules/nodebb-plugin-autofill/lib",
+    "LOG_DIR" : "/logs/autofill/",
+    "IMG_DIR" : "/public/images/autofill/" ,
+    "DISPLAY_DIR" : "/images/autofill/"
+}

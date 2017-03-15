@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-autofill",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nodebb autofill post",
   "main": "library.js",
   "scripts": {
